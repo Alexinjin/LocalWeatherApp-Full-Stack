@@ -1,0 +1,23 @@
+.location {
+  height: 25%;
+}
+.currentWeatherWrapper {
+  flex-basis: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: auto 1fr;
+  margin: 40px 0;
+  grid-gap: 30px;
+  height: 25vh;
+}
+.weatherTable {
+  width: 50%;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 25px;
+}
+.currentTempature {
+  width: 25%;
+  color: white;
+  font-size: 80px;
+}
