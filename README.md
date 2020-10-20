@@ -9,3 +9,4 @@ The backend will retrieve the real weather data of current date from OpenWeather
 To test this application, **you will need to apply personal API keys and replace the pesodu key in the backend**. 
 
 
+![GitHub Logo](/images/logo.png)
