@@ -8,7 +8,8 @@ The backend will retrieve the real weather data of current date from OpenWeather
 
 To test this application, **you will need to apply personal API keys and replace the pesodu key in the backend**. 
 
+![demo1](https://user-images.githubusercontent.com/15995755/96538414-543d0900-124d-11eb-89bf-501abc7ae126.jpg)
 
-![Demo View](/https://github.com/Alexinjin/LocalWeatherApp-Full-Stack/demo1.png)
 
-![Demo View](/https://github.com/Alexinjin/LocalWeatherApp-Full-Stack/demo2.png)
+![demo2](https://user-images.githubusercontent.com/15995755/96538517-8d757900-124d-11eb-8152-856f79ace0ca.jpg)
+
