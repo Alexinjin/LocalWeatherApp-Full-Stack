@@ -1,4 +1,4 @@
-# LocalWeatherApp-Full-Stack
+# WeatherTracking App
 A full-stack application that allows user to get hourly forecast weather data based on the given location
 
 
