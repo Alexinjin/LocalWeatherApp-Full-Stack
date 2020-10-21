@@ -6,7 +6,7 @@ The Application includes both front end and back. The front-end is built by Reac
 
 The backend will retrieve the real weather data of current date from OpenWeather API. 
 
-To test this application, **you will need to apply personal API keys and replace the pesodu key in the backend**. 
+To test this application, **you will need to apply personal API keys and replace the pseudo key in the backend**. 
 
 (Path: LocalWeatherApp-Full-Stack/WeatherApp-BackEnd/restful-web-services/src/main/java/com/localweatherapp/rest/webservice/restfulwebservices/LocalWeatherData.java)
 
